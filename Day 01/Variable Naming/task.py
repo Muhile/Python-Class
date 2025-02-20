@@ -15,4 +15,8 @@
 # number = input("What is your input?")
 # print(len(number))
 
-print(len(input("What is your input?")))
+# print(len(input("What is your input?")))
+
+username = input("what is your username")
+length = len(username)
+print(length)
